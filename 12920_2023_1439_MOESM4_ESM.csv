@@ -1,0 +1,282 @@
+ID,Accession,Target,TargetID,Experiment,Literature,Tissue
+hsa-mir-17-5p,MIMAT0000070,CDKN1A,1026,HITS-CLIP//Luciferase reporter assay//Northern blot//qRT-PCR//Reporter assay//Western blot,18212054|18493594|20190813|18941111|20227518|21283765|23333058|24989082|22473208|27774777|26482648,Peripheral blood
+hsa-mir-17-5p,MIMAT0000070,CCL5,6352,HITS-CLIP,23313552,Peripheral blood
+hsa-mir-17-5p,MIMAT0000070,TNF,7124,Luciferase reporter assay,26041742,Peripheral blood
+hsa-mir-17-5p,MIMAT0000070,TP53,7157,qRT-PCR,24955218,Peripheral blood
+hsa-mir-17-5p,MIMAT0000070,TLR7,51284,HITS-CLIP//Luciferase reporter assay,23313552|26041742,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,EEF2,1938,CLASH,23622248,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,FCGR2B,2213,qRT-PCR//Western blot,24169826,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,TP53,7157,qRT-PCR,24955218,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,RACK1,10399,CLASH,23622248,Peripheral blood
+hsa-mir-19a-3p,MIMAT0000073,ACTB,60,PAR-CLIP,23592263|21572407,Peripheral blood
+hsa-mir-19a-3p,MIMAT0000073,TNF,7124,Immunohistochemistry//Luciferase reporter assay//qRT-PCR//Western blot,21271217|23795660|26041742,Peripheral blood
+hsa-mir-19a-3p,MIMAT0000073,TP53,7157,HITS-CLIP,22473208,Peripheral blood
+hsa-mir-19a-3p,MIMAT0000073,TLR7,51284,Luciferase reporter assay,26041742,Peripheral blood
+hsa-mir-19b-3p,MIMAT0000074,ACTB,60,PAR-CLIP,23592263|21572407,Peripheral blood
+hsa-mir-19b-3p,MIMAT0000074,TP53,7157,HITS-CLIP//Immunoblot//Immunohistochemistry//Luciferase reporter assay//qRT-PCR,22473208|24742936,Peripheral blood
+hsa-mir-20a-5p,MIMAT0000075,CDKN1A,1026,HITS-CLIP//Luciferase reporter assay//qRT-PCR//Western blot,20190813|18941111|21283765|23333058|22473208,Peripheral blood
+hsa-mir-20a-5p,MIMAT0000075,CCL5,6352,HITS-CLIP,23313552,Peripheral blood
+hsa-mir-20a-5p,MIMAT0000075,TP53,7157,qRT-PCR,24955218,Peripheral blood
+hsa-mir-20a-5p,MIMAT0000075,TLR7,51284,HITS-CLIP,23313552,Peripheral blood
+hsa-mir-20a-5p,MIMAT0000075,TUBB,203068,CLASH,23622248,Peripheral blood
+hsa-mir-21-5p,MIMAT0000076,CCR7,1236,HITS-CLIP,22473208,Peripheral blood
+hsa-mir-21-5p,MIMAT0000076,CXCL10,3627,qRT-PCR,24889251,Peripheral blood
+hsa-mir-25-3p,MIMAT0000081,CDK4,1019,CLASH,23622248,Peripheral blood
+hsa-mir-25-3p,MIMAT0000081,TP53,7157,Luciferase reporter assay//qRT-PCR//Western blot,20935678,Peripheral blood
+hsa-mir-25-3p,MIMAT0000081,TUBB,203068,CLASH,23622248,Peripheral blood
+hsa-mir-33a-5p,MIMAT0000091,ACTB,60,Flow//PAR-CLIP//qRT-PCR//Western blot,20371350|25544258,Peripheral blood
+hsa-mir-93-5p,MIMAT0000093,CDKN1A,1026,HITS-CLIP//Luciferase reporter assay//Microarray//qRT-PCR//Western blot,18328430|19153141|20190813|22473208|27185265|28356951,Peripheral blood
+hsa-mir-93-5p,MIMAT0000093,CCL5,6352,HITS-CLIP,23313552,Peripheral blood
+hsa-mir-93-5p,MIMAT0000093,TLR7,51284,HITS-CLIP,23313552,Peripheral blood
+hsa-mir-99a-5p,MIMAT0000097,RPS15,6209,CLASH,23622248,Peripheral blood
+hsa-mir-181a-5p,MIMAT0000256,CD4,920,Flow//qRT-PCR//Western blot,23393335,Peripheral blood
+hsa-mir-181a-5p,MIMAT0000256,CDKN1A,1026,qRT-PCR//Western blot,27534652,Peripheral blood
+hsa-mir-181a-5p,MIMAT0000256,CDKN1B,1027,CLASH//Luciferase reporter assay//qRT-PCR//Reporter assay//Western blot,19273599|23622248|27534652,Peripheral blood
+hsa-mir-181a-5p,MIMAT0000256,TUBB,203068,HITS-CLIP,22473208,Peripheral blood
+hsa-mir-212-3p,MIMAT0000269,CDKN1A,1026,PAR-CLIP,26701625|27292025,Peripheral blood
+hsa-mir-223-3p,MIMAT0000280,TP53,7157,PAR-CLIP,23592263,Peripheral blood
+hsa-mir-146a-5p,MIMAT0000449,CDKN1A,1026,Luciferase reporter assay,20101223,Peripheral blood
+hsa-mir-146a-5p,MIMAT0000449,PA2G4,5036,Microarray//qRT-PCR//Western blot,19944095,Peripheral blood
+hsa-mir-146a-5p,MIMAT0000449,CCL5,6352,Luciferase reporter assay,24996260,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,CAT,847,Proteomics,18668040,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,CDK4,1019,Proteomics,18668040,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,CDKN1B,1027,PAR-CLIP,23592263|23446348|22012620|20371350,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,EEF2,1938,PAR-CLIP,20371350,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,PLK1,5347,Proteomics,18668040,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,CCL2,6347,Proteomics,18668040,Peripheral blood
+hsa-mir-106b-5p,MIMAT0000680,CDKN1A,1026,HITS-CLIP//Luciferase reporter assay//Microarray//qRT-PCR//Reporter assay//Western blot,18676839|18328430|19153141|18212054|20190813|20385818|19422085|20101223|21283765|20709030|23803041|22473208|26238857,Peripheral blood
+hsa-mir-106b-5p,MIMAT0000680,CCL5,6352,HITS-CLIP,23313552,Peripheral blood
+hsa-mir-106b-5p,MIMAT0000680,TP53,7157,qRT-PCR,24955218,Peripheral blood
+hsa-mir-106b-5p,MIMAT0000680,TLR7,51284,HITS-CLIP,23313552,Peripheral blood
+hsa-mir-296-5p,MIMAT0000690,PLK1,5347,Luciferase reporter assay//PAR-CLIP//Western blot,26549165|26701625,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,RPS9,6203,CLASH,23622248,Peripheral blood
+hsa-mir-18a-3p,MIMAT0002891,CDKN1A,1026,PAR-CLIP,23592263|22012620|26701625,Peripheral blood
+hsa-mir-18a-3p,MIMAT0002891,P4HB,5034,CLASH,23622248,Peripheral blood
+hsa-mir-18a-3p,MIMAT0002891,RPS15,6209,CLASH,23622248,Peripheral blood
+hsa-mir-18a-3p,MIMAT0002891,TUBB,203068,CLASH,23622248,Peripheral blood
+hsa-mir-582-5p,MIMAT0003247,CDKN1A,1026,PAR-CLIP,23592263|26701625,Peripheral blood
+hsa-mir-19a-5p,MIMAT0004490,RPLP0,6175,PAR-CLIP,20371350,Peripheral blood
+hsa-mir-19b-1-5p,MIMAT0004491,RPLP0,6175,PAR-CLIP,20371350,Peripheral blood
+hsa-mir-92a-1-5p,MIMAT0004507,EEF2,1938,CLASH,23622248,Peripheral blood
+hsa-mir-92a-1-5p,MIMAT0004507,PLK1,5347,CLASH,23622248,Peripheral blood
+hsa-mir-92a-1-5p,MIMAT0004507,TP53,7157,qRT-PCR,24955218,Peripheral blood
+hsa-mir-92a-1-5p,MIMAT0004507,TUBB,203068,CLASH,23622248,Peripheral blood
+hsa-mir-155-3p,MIMAT0004658,TP53,7157,ChIP-seq//Luciferase reporter assay//Western blot,27903673,Peripheral blood
+hsa-mir-455-3p,MIMAT0004784,ACTB,60,CLASH,23622248,Peripheral blood
+hsa-mir-455-3p,MIMAT0004784,CDKN1A,1026,PAR-CLIP,26701625|27292025,Peripheral blood
+hsa-mir-455-3p,MIMAT0004784,RPL8,6132,CLASH,23622248,Peripheral blood
+hsa-mir-33b-3p,MIMAT0004811,CDKN1B,1027,PAR-CLIP,23592263,Peripheral blood
+hsa-mir-212-5p,MIMAT0022695,ITGAL,3683,HITS-CLIP,23824327,Peripheral blood
+hsa-mir-146a-5p,MIMAT0000449,TYROBP,7305,Microarrays,tarbase,Peripheral blood
+hsa-mir-20a-5p,MIMAT0000075,TYROBP,7305,Microarrays,tarbase,Peripheral blood
+hsa-mir-92a-1-5p,MIMAT0004507,CD74,972,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-126-3p,MIMAT0000445,CD74,972,Microarrays,tarbase,Peripheral blood
+hsa-mir-126-3p,MIMAT0000445,FCGR2B,2213,Microarrays,tarbase,Peripheral blood
+hsa-mir-17-5p,MIMAT0000070,ACTB,60,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-181a-5p,MIMAT0000256,ACTB,60,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,ACTB,60,"HITS-CLIP, PAR-CLIP",tarbase,Peripheral blood
+hsa-mir-19a-5p,MIMAT0004490,ACTB,60,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-19b-1-5p,MIMAT0004491,ACTB,60,"PAR-CLIP, HITS-CLIP",tarbase,Peripheral blood
+hsa-mir-21-5p,MIMAT0000076,ACTB,60,Biotin-Microarrays,tarbase,Peripheral blood
+hsa-mir-25-3p,MIMAT0000081,ACTB,60,"HITS-CLIP, PAR-CLIP",tarbase,Peripheral blood
+hsa-mir-93-5p,MIMAT0000093,ACTB,60,"HITS-CLIP, PAR-CLIP",tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,ACTB,60,Microarrays,tarbase,Peripheral blood
+hsa-mir-20a-5p,MIMAT0000075,ACTB,60,Microarrays,tarbase,Peripheral blood
+hsa-mir-18a-3p,MIMAT0002891,RAB7A,7879,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-212-3p,MIMAT0000269,RAB7A,7879,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-25-3p,MIMAT0000081,RAB7A,7879,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-93-5p,MIMAT0000093,RAB7A,7879,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-17-3p,MIMAT0000071,RPLP0,6175,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-181a-5p,MIMAT0000256,RPLP0,6175,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-20a-3p,MIMAT0004493,RPLP0,6175,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,RPLP0,6175,RNA-Seq,tarbase,Peripheral blood
+hsa-mir-17-5p,MIMAT0000070,MAPK3,5595,Luciferase Reporter Assay,tarbase,Peripheral blood
+hsa-mir-181a-5p,MIMAT0000256,MAPK3,5595,Western Blot,tarbase,Peripheral blood
+hsa-mir-126-3p,MIMAT0000445,MAPK3,5595,Microarrays,tarbase,Peripheral blood
+hsa-mir-146a-5p,MIMAT0000449,MAPK3,5595,Microarrays,tarbase,Peripheral blood
+hsa-mir-99a-5p,MIMAT0000097,CCL2,6347,Microarrays,tarbase,Peripheral blood
+hsa-mir-20a-5p,MIMAT0000075,CCL2,6347,Microarrays,tarbase,Peripheral blood
+hsa-mir-17-5p,MIMAT0000070,CDKN1B,1027,"PAR-CLIP, CLEAR-CLIP",tarbase,Peripheral blood
+hsa-mir-18a-3p,MIMAT0002891,CDKN1B,1027,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,CDKN1B,1027,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-19a-3p,MIMAT0000073,CDKN1B,1027,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-19b-3p,MIMAT0000074,CDKN1B,1027,"HITS-CLIP, Chimeric fragments",tarbase,Peripheral blood
+hsa-mir-20a-5p,MIMAT0000075,CDKN1B,1027,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-25-3p,MIMAT0000081,CDKN1B,1027,"HITS-CLIP, PAR-CLIP",tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,CDKN1B,1027,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-33a-5p,MIMAT0000091,CDKN1B,1027,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-582-5p,MIMAT0003247,CDKN1B,1027,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-93-5p,MIMAT0000093,CDKN1B,1027,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-212-3p,MIMAT0000269,CDKN1B,1027,Microarrays,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,RPS15,6209,Chimeric fragments,tarbase,Peripheral blood
+hsa-mir-181a-5p,MIMAT0000256,CTSD,1509,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-20a-3p,MIMAT0004493,CTSD,1509,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-296-5p,MIMAT0000690,CTSD,1509,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-940,MIMAT0004983,CTSD,1509,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-212-5p,MIMAT0022695,CAT,847,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-223-3p,MIMAT0000280,CAT,847,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-33a-5p,MIMAT0000091,CAT,847,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-155-3p,MIMAT0004658,CDKN1A,1026,Luciferase Reporter Assay,tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,CDKN1A,1026,"Luciferase Reporter Assay, Western Blot, Chimeric fragments",tarbase,Peripheral blood
+hsa-mir-17-3p,MIMAT0000071,CDKN1A,1026,Luciferase Reporter Assay,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,CDKN1A,1026,"Luciferase Reporter Assay, HITS-CLIP, PAR-CLIP",tarbase,Peripheral blood
+hsa-mir-19a-3p,MIMAT0000073,CDKN1A,1026,Luciferase Reporter Assay,tarbase,Peripheral blood
+hsa-mir-19a-5p,MIMAT0004490,CDKN1A,1026,Luciferase Reporter Assay,tarbase,Peripheral blood
+hsa-mir-19b-1-5p,MIMAT0004491,CDKN1A,1026,Luciferase Reporter Assay,tarbase,Peripheral blood
+hsa-mir-19b-3p,MIMAT0000074,CDKN1A,1026,Luciferase Reporter Assay,tarbase,Peripheral blood
+hsa-mir-20a-3p,MIMAT0004493,CDKN1A,1026,Luciferase Reporter Assay,tarbase,Peripheral blood
+hsa-mir-25-3p,MIMAT0000081,CDKN1A,1026,Luciferase Reporter Assay,tarbase,Peripheral blood
+hsa-mir-92a-1-5p,MIMAT0004507,CDKN1A,1026,Luciferase Reporter Assay,tarbase,Peripheral blood
+hsa-mir-99a-5p,MIMAT0000097,CDKN1A,1026,Microarrays,tarbase,Peripheral blood
+hsa-mir-126-3p,MIMAT0000445,SNRPD2,6633,Microarrays,tarbase,Peripheral blood
+hsa-mir-17-3p,MIMAT0000071,RAC2,5880,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-20a-3p,MIMAT0004493,RAC2,5880,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,RAC2,5880,Microarrays,tarbase,Peripheral blood
+hsa-mir-20a-5p,MIMAT0000075,RAC2,5880,Microarrays,tarbase,Peripheral blood
+hsa-mir-17-3p,MIMAT0000071,CDK4,1019,"HITS-CLIP, PAR-CLIP",tarbase,Peripheral blood
+hsa-mir-17-5p,MIMAT0000070,CDK4,1019,"HITS-CLIP, PAR-CLIP",tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,CDK4,1019,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-296-5p,MIMAT0000690,CDK4,1019,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-93-5p,MIMAT0000093,CDK4,1019,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-181a-5p,MIMAT0000256,TP53,7157,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-93-5p,MIMAT0000093,TP53,7157,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-940,MIMAT0004983,TP53,7157,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TP53,7157,Microarrays,tarbase,Peripheral blood
+hsa-mir-212-3p,MIMAT0000269,TP53,7157,Microarrays,tarbase,Peripheral blood
+hsa-mir-212-5p,MIMAT0022695,RPL8,6132,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,RPL8,6132,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-769-5p,MIMAT0003886,RPL8,6132,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-21-5p,MIMAT0000076,PLK1,5347,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-33a-5p,MIMAT0000091,PLK1,5347,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-455-3p,MIMAT0004784,PLK1,5347,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-126-3p,MIMAT0000445,PLK1,5347,Microarrays,tarbase,Peripheral blood
+hsa-mir-212-3p,MIMAT0000269,PLK1,5347,Microarrays,tarbase,Peripheral blood
+hsa-mir-106b-5p,MIMAT0000680,PLK1,5347,Chimeric fragments,tarbase,Peripheral blood
+hsa-mir-17-5p,MIMAT0000070,PLK1,5347,Chimeric fragments,tarbase,Peripheral blood
+hsa-mir-126-5p,MIMAT0000444,EEF2,1938,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-17-3p,MIMAT0000071,EEF2,1938,"PAR-CLIP, HITS-CLIP",tarbase,Peripheral blood
+hsa-mir-19a-5p,MIMAT0004490,EEF2,1938,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-19b-1-5p,MIMAT0004491,EEF2,1938,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-296-5p,MIMAT0000690,EEF2,1938,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,EEF2,1938,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-455-3p,MIMAT0004784,EEF2,1938,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-940,MIMAT0004983,EEF2,1938,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-99a-5p,MIMAT0000097,EEF2,1938,Chimeric fragments,tarbase,Peripheral blood
+hsa-mir-146a-5p,MIMAT0000449,CXCL10,3627,Microarrays,tarbase,Peripheral blood
+hsa-mir-20a-5p,MIMAT0000075,CXCL10,3627,Microarrays,tarbase,Peripheral blood
+hsa-mir-212-3p,MIMAT0000269,CXCL10,3627,Microarrays,tarbase,Peripheral blood
+hsa-mir-126-5p,MIMAT0000444,PA2G4,5036,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,RPS9,6203,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,RPS9,6203,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,RPS9,6203,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,RPS9,6203,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,RPS9,6203,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,RPS9,6203,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,RPS9,6203,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,RPS9,6203,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,RPS9,6203,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,RPS9,6203,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-181a-5p,MIMAT0000256,CFL1,1072,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-21-5p,MIMAT0000076,CFL1,1072,SILAC,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,CFL1,1072,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-455-3p,MIMAT0004784,CFL1,1072,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-92a-1-5p,MIMAT0004507,CFL1,1072,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,CFL1,1072,Microarrays,tarbase,Peripheral blood
+hsa-mir-126-5p,MIMAT0000444,CALR,811,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-181a-5p,MIMAT0000256,CALR,811,"HITS-CLIP, PAR-CLIP, Chimeric fragments",tarbase,Peripheral blood
+hsa-mir-212-5p,MIMAT0022695,CALR,811,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,CALR,811,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-25-3p,MIMAT0000081,CALR,811,Chimeric fragments,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,P4HB,5034,"PAR-CLIP, HITS-CLIP",tarbase,Peripheral blood
+hsa-mir-212-5p,MIMAT0022695,P4HB,5034,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,P4HB,5034,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-146a-5p,MIMAT0000449,P4HB,5034,Microarrays,tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,P4HB,5034,Microarrays,tarbase,Peripheral blood
+hsa-mir-20a-5p,MIMAT0000075,P4HB,5034,Microarrays,tarbase,Peripheral blood
+hsa-mir-146a-5p,MIMAT0000449,CXCR3,2833,Microarrays,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-18a-5p,MIMAT0000072,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-21-5p,MIMAT0000076,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-21-5p,MIMAT0000076,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-21-5p,MIMAT0000076,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-21-5p,MIMAT0000076,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-21-5p,MIMAT0000076,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-21-5p,MIMAT0000076,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-21-5p,MIMAT0000076,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-21-5p,MIMAT0000076,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-769-5p,MIMAT0003886,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-769-5p,MIMAT0003886,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-769-5p,MIMAT0003886,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-769-5p,MIMAT0003886,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-769-5p,MIMAT0003886,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-769-5p,MIMAT0003886,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-769-5p,MIMAT0003886,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-769-5p,MIMAT0003886,TUBB,203068,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-940,MIMAT0004983,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-940,MIMAT0004983,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-940,MIMAT0004983,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-940,MIMAT0004983,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-940,MIMAT0004983,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-940,MIMAT0004983,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-940,MIMAT0004983,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-940,MIMAT0004983,TUBB,203068,HITS-CLIP,tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TUBB,203068,"RNA-Seq, Microarrays",tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TUBB,203068,"RNA-Seq, Microarrays",tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TUBB,203068,"RNA-Seq, Microarrays",tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TUBB,203068,"RNA-Seq, Microarrays",tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TUBB,203068,"RNA-Seq, Microarrays",tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TUBB,203068,"RNA-Seq, Microarrays",tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TUBB,203068,"RNA-Seq, Microarrays",tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TUBB,203068,"RNA-Seq, Microarrays",tarbase,Peripheral blood
+hsa-mir-126-3p,MIMAT0000445,TUBB,203068,Microarrays,tarbase,Peripheral blood
+hsa-mir-126-3p,MIMAT0000445,TUBB,203068,Microarrays,tarbase,Peripheral blood
+hsa-mir-126-3p,MIMAT0000445,TUBB,203068,Microarrays,tarbase,Peripheral blood
+hsa-mir-126-3p,MIMAT0000445,TUBB,203068,Microarrays,tarbase,Peripheral blood
+hsa-mir-126-3p,MIMAT0000445,TUBB,203068,Microarrays,tarbase,Peripheral blood
+hsa-mir-126-3p,MIMAT0000445,TUBB,203068,Microarrays,tarbase,Peripheral blood
+hsa-mir-126-3p,MIMAT0000445,TUBB,203068,Microarrays,tarbase,Peripheral blood
+hsa-mir-126-3p,MIMAT0000445,TUBB,203068,Microarrays,tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TNF,7124,"ELISA, qPCR",tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TNF,7124,"ELISA, qPCR",tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TNF,7124,"ELISA, qPCR",tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TNF,7124,"ELISA, qPCR",tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TNF,7124,"ELISA, qPCR",tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TNF,7124,"ELISA, qPCR",tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TNF,7124,"ELISA, qPCR",tarbase,Peripheral blood
+hsa-mir-155-5p,MIMAT0000646,TNF,7124,"ELISA, qPCR",tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TNF,7124,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TNF,7124,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TNF,7124,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TNF,7124,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TNF,7124,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TNF,7124,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TNF,7124,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-328-3p,MIMAT0000752,TNF,7124,PAR-CLIP,tarbase,Peripheral blood
+hsa-mir-99a-5p,MIMAT0000097,CCL5,6352,Microarrays,tarbase,Peripheral blood
+hsa-mir-99a-5p,MIMAT0000097,CCL5,6352,Microarrays,tarbase,Peripheral blood
+hsa-mir-212-3p,MIMAT0000269,CCL5,6352,Microarrays,tarbase,Peripheral blood
+hsa-mir-212-3p,MIMAT0000269,CCL5,6352,Microarrays,tarbase,Peripheral blood
+hsa-mir-17,MIMAT0000070,CDKN1A,1026,phenotypic analysis of target gene,20299512,Peripheral blood
+hsa-mir-21,MIMAT0000076,CDKN1A,1026,other,17991735,Peripheral blood
+hsa-mir-93,MIMAT0000093,CDKN1A,1026,Western blot,19422085,Peripheral blood
+hsa-mir-93,MIMAT0000093,CDKN1A,1026,Western blot,18328430,Peripheral blood
+hsa-mir-181a,MIMAT0000256,CDKN1B,1027,Western blot,19273599,Peripheral blood
+hsa-mir-146a,MIMAT0000449,PA2G4,5036,other,19944095,Peripheral blood
+hsa-mir-106b,MIMAT0000680,CDKN1A,1026,Western blot,19422085,Peripheral blood
+hsa-mir-106b,MIMAT0000680,CDKN1A,1026,Western blot,18328430,Peripheral blood
+hsa-mir-106b,MIMAT0000680,CDKN1A,1026,Western blot,18212054,Peripheral blood
+hsa-mir-296-5p,MIMAT0000690,CDKN1B,1027,Western blot,20485139,Peripheral blood
